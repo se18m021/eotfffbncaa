@@ -1,0 +1,4 @@
+library mylib;
+
+class CboA {
+}
